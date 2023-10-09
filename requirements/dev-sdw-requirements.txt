@@ -632,7 +632,7 @@ ruamel-yaml-clib==0.2.6 \
 securedrop-sdk==0.4.0 \
     --hash=sha256:c08f77bae5f900b1fbcd3b5aae1c931dc877e7289d69aa5a8b1e3c3f4e0dc561
     # via -r requirements/requirements.in
-semgrep==0.103.0 \
+semgrep==1.25.0 \
     --hash=sha256:7ca541e995781bf685a4f410d49af12da201aade77bee4dbcc0ba4e1a3ef7084 \
     --hash=sha256:f0c05693f1f0217d147ae5ab56cb26ed5b46d796c36bfbcce73b9a89ec30a63e \
     --hash=sha256:f446a48544b2037966884f7a707b57b38037b089e339ddc318d41b9cb59ddd8d \
