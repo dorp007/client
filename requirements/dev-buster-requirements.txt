@@ -376,7 +376,7 @@ pathspec==0.9.0 \
     --hash=sha256:7d15c4ddb0b5c802d161efc417ec1a2558ea2653c2e8ad9c19098201dc1c993a \
     --hash=sha256:e564499435a2673d586f6b2130bb5b95f04a3ba06f81b8f895b651a3c76aabb1
     # via black
-peewee==3.14.10 \
+peewee==3.17.1 \
     --hash=sha256:23271422b332c82d30c92597dee905ee831b56c6d99c33e05901e6891c75fe15
     # via semgrep
 pep517==0.12.0 \
