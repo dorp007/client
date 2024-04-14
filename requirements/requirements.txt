@@ -22,7 +22,7 @@ charset-normalizer==2.0.4 \
     # via
     #   -r requirements/requirements.in
     #   requests
-idna==3.2 \
+idna==3.7 \
     --hash=sha256:14475042e284991034cb48e06f6851428fb14c4dc953acd9be9a5e95c7b6dd7a \
     --hash=sha256:467fbad99067910785144ce333826c71fb0e63a425657295239737f7ecd125f3
     # via
