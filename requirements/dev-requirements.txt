@@ -945,3 +945,4 @@ setuptools==63.1.0 \
     # via
     #   jsonschema
     #   pip-tools
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
