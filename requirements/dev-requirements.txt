@@ -939,7 +939,7 @@ pip==22.1.2 \
     --hash=sha256:6d55b27e10f506312894a87ccc59f280136bad9061719fac9101bdad5a6bce69 \
     --hash=sha256:a3edacb89022ef5258bf61852728bf866632a394da837ca49eb4303635835f17
     # via pip-tools
-setuptools==63.1.0 \
+setuptools==70.0.0 \
     --hash=sha256:16923d366ced322712c71ccb97164d07472abeecd13f3a6c283f6d5d26722793 \
     --hash=sha256:db3b8e2f922b2a910a29804776c643ea609badb6a32c4bcc226fd4fd902cce65
     # via
