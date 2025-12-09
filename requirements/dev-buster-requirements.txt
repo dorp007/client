@@ -376,7 +376,7 @@ pathspec==0.9.0 \
     --hash=sha256:7d15c4ddb0b5c802d161efc417ec1a2558ea2653c2e8ad9c19098201dc1c993a \
     --hash=sha256:e564499435a2673d586f6b2130bb5b95f04a3ba06f81b8f895b651a3c76aabb1
     # via black
-peewee==3.14.10 \
+peewee==3.18.3 \
     --hash=sha256:23271422b332c82d30c92597dee905ee831b56c6d99c33e05901e6891c75fe15
     # via semgrep
 pep517==0.12.0 \
@@ -819,7 +819,7 @@ ujson==5.4.0 \
     --hash=sha256:fbea46c0fbc1c3bc8f957afd8dbb25b4ea3a356e18ee6dd79ace6cf32bd4cff7 \
     --hash=sha256:fd82932aaa224abd7d01e823b77aef9970f5ac1695027331d99e7f5fda9d37f5
     # via python-lsp-jsonrpc
-urllib3==1.26.6 \
+urllib3==2.6.0 \
     --hash=sha256:39fb8672126159acb139a7718dd10806104dec1e2f0f6c88aab05d17df10c8d4 \
     --hash=sha256:f57b4c16c62fa2760b7e3d97c35b255512fb6b59a259730f36ba32ce9f8e342f
     # via
