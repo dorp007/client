@@ -757,7 +757,7 @@ wheel==0.37.1 \
     --hash=sha256:4bdcd7d840138086126cd09254dc6195fb4fc6f01c050a1d7236f2630db1d22a \
     --hash=sha256:e9a504e793efbca1b8e0e9cb979a249cf4a0a7b5b8c9e8b65a5e39d49529c1c4
     # via pip-tools
-wlc==1.13 \
+wlc==1.17.2 \
     --hash=sha256:319e9abee30d4f91c82175bb7b3ba400978eef4a3e4ab8099c19c68cdcb8b581 \
     --hash=sha256:97a618abd2764884da9e7ffa1b2e623a45e469760e014590fb7c1064188910d6
     # via -r requirements/dev-sdw-requirements.in
